@@ -1,0 +1,16 @@
+Dimension,Segment,AttritionRate%,HeadCount
+OverTime,Yes,30.5,416.0
+OverTime,No,10.4,1054.0
+Department,Sales,20.6,446.0
+Department,Human Resources,19.0,63.0
+Department,Research & Development,13.8,961.0
+JobSatisfaction,1,22.8,289.0
+JobSatisfaction,3,16.5,442.0
+JobSatisfaction,2,16.4,280.0
+JobSatisfaction,4,11.3,459.0
+MaritalStatus,Single,25.5,470.0
+MaritalStatus,Married,12.5,673.0
+MaritalStatus,Divorced,10.1,327.0
+BusinessTravel,Travel_Frequently,24.9,277.0
+BusinessTravel,Travel_Rarely,15.0,1043.0
+BusinessTravel,Non-Travel,8.0,150.0
