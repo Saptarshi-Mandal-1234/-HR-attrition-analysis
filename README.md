@@ -68,3 +68,6 @@ Python (pandas, scikit-learn, matplotlib, seaborn) · Power BI · SQL-style grou
 
 ---
 *Author: Saptarshi Mandal — built as a portfolio project for Data/Business Analyst roles.*
+
+## Reproducibility and limitations
+See [setup and validation notes](docs/REPRODUCING.md).
